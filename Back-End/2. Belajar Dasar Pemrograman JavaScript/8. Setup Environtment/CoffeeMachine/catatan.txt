@@ -1,0 +1,3 @@
+- Membuat project javascript.
+- Menjalan project node.
+- Run script
